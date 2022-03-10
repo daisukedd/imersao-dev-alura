@@ -1,0 +1,29 @@
+* {
+    font-family: Roboto;
+    padding: 0;
+}
+
+#boxConverse {
+    padding: 5%;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    width: 450px;
+    background-color: rgb(21, 21, 21);
+    border-radius: 20px;
+}
+
+#iconMoney {
+    background: none;
+    border: none;
+    width: 100px;
+}
+
+h1 {
+    color: white;
+}
+
+#valorConvertido {
+    color: white;
+    margin: 15px;
+}
